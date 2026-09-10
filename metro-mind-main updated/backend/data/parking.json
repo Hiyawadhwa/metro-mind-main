@@ -1,0 +1,47 @@
+[
+  {
+    "train_id": "TM001",
+    "bay": "PT01",
+    "position": 1,
+    "status": "parking",
+    "arrival_time": "2026-08-11T11:53:04.809Z",
+    "departure_time": null,
+    "notes": ""
+  },
+  {
+    "train_id": "TM005",
+    "bay": "PT02",
+    "position": 2,
+    "status": "parking",
+    "arrival_time": "2026-08-11T11:53:07.293Z",
+    "departure_time": null,
+    "notes": ""
+  },
+  {
+    "train_id": "TM019",
+    "bay": "PT03",
+    "position": 1,
+    "status": "parking",
+    "arrival_time": "2026-08-11T11:53:16.360Z",
+    "departure_time": "2026-08-11T17:23:37.462609",
+    "notes": ""
+  },
+  {
+    "train_id": "TM021",
+    "bay": "PT03",
+    "position": 1,
+    "status": "parking",
+    "arrival_time": "2026-08-11T11:53:37.474Z",
+    "departure_time": null,
+    "notes": ""
+  },
+  {
+    "train_id": "TM003",
+    "bay": "IBL02",
+    "position": 1,
+    "status": "maintenance",
+    "arrival_time": "2026-08-11T11:54:18.526Z",
+    "departure_time": null,
+    "notes": "hhobkhgb"
+  }
+]

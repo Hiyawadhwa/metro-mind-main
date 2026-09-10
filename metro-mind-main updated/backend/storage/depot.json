@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Default Depot",
+    "location": "Unknown",
+    "deep_cleaning_labour_available_today": 1,
+    "updated_at": "2026-08-11T17:21:52.705985"
+  },
+  {
+    "name": "HIYA's Team",
+    "location": "Delhi, New Delhi, Delhi, IND",
+    "cleaning_bays": null,
+    "maintenance_bays": 8,
+    "stabling_tracks": 12,
+    "inspection_lines": 2,
+    "washing_lines": 3,
+    "lifting_bays": null,
+    "max_capacity_trains": 60,
+    "operational_hours": "11"
+  }
+]

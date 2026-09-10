@@ -1,0 +1,1018 @@
+{
+  "readiness_scores": [
+    {
+      "train_id": "TM001",
+      "score": 87.0,
+      "breakdown": {
+        "fitness_certificates": 100,
+        "job_cards": 90.0,
+        "branding_contracts": 100,
+        "mileage_balancing": 50.0,
+        "cleaning_status": 100
+      },
+      "details": {
+        "fitness_certificates": "\u2705 All fitness certificates valid",
+        "job_cards": "\ud83d\udd37 Low: Dashboard polishing (1.112171076629541h)",
+        "branding_contracts": "\u2705 Amazon: 2.3h/day needed",
+        "mileage_balancing": "\u2705 bogie: Good (10990.11723238428/15000 km) | \u2705 brake_pad: Good (9639.84289991932/13000 km) | \ud83d\udea8 hvac: Critical (14811.587769333248/15000 km)",
+        "cleaning_status": "\u2705 Cleaning not needed yet (2 days since last cleaning)",
+        "combined": "\u2705 All fitness certificates valid | \ud83d\udd37 Low: Dashboard polishing (1.112171076629541h) | \u2705 Amazon: 2.3h/day needed | \u2705 bogie: Good (10990.11723238428/15000 km) | \u2705 brake_pad: Good (9639.84289991932/13000 km) | \ud83d\udea8 hvac: Critical (14811.587769333248/15000 km) | \u2705 Cleaning not needed yet (2 days since last cleaning)",
+        "summary": "\ud83d\udd35 Good condition"
+      }
+    },
+    {
+      "train_id": "TM002",
+      "score": 72.6,
+      "breakdown": {
+        "fitness_certificates": 100,
+        "job_cards": 50.0,
+        "branding_contracts": 100,
+        "mileage_balancing": 63.0,
+        "cleaning_status": 50
+      },
+      "details": {
+        "fitness_certificates": "\u2705 All fitness certificates valid",
+        "job_cards": "\u26a0\ufe0f High: Window seal replacement (1.6719515681092243h)",
+        "branding_contracts": "\u2705 No branding contracts",
+        "mileage_balancing": "\u26a0\ufe0f bogie: Warning (13209.38920889678/15000 km) | \ud83d\udd36 brake_pad: Notice (10255.270235788787/13000 km) | \u2705 hvac: Good (10180.441384201715/15000 km)",
+        "cleaning_status": "\ud83d\udea8 Cleaning overdue (9 days since last cleaning)",
+        "combined": "\u2705 All fitness certificates valid | \u26a0\ufe0f High: Window seal replacement (1.6719515681092243h) | \u2705 No branding contracts | \u26a0\ufe0f bogie: Warning (13209.38920889678/15000 km) | \ud83d\udd36 brake_pad: Notice (10255.270235788787/13000 km) | \u2705 hvac: Good (10180.441384201715/15000 km) | \ud83d\udea8 Cleaning overdue (9 days since last cleaning)",
+        "summary": "\ud83d\udfe1 Moderate condition"
+      }
+    },
+    {
+      "train_id": "TM003",
+      "score": 91.2,
+      "breakdown": {
+        "fitness_certificates": 100,
+        "job_cards": 100,
+        "branding_contracts": 100,
+        "mileage_balancing": 81.0,
+        "cleaning_status": 50
+      },
+      "details": {
+        "fitness_certificates": "\u2705 All fitness certificates valid",
+        "job_cards": "\u2705 No open job cards",
+        "branding_contracts": "\u2705 Coca-Cola: 1.5h/day needed",
+        "mileage_balancing": "\ud83d\udd36 bogie: Notice (12315.597369752522/15000 km) | \u2705 brake_pad: Good (7139.954097927768/13000 km) | \ud83d\udd36 hvac: Notice (12742.851128202534/15000 km)",
+        "cleaning_status": "\ud83d\udea8 Cleaning overdue (10 days since last cleaning)",
+        "combined": "\u2705 All fitness certificates valid | \u2705 No open job cards | \u2705 Coca-Cola: 1.5h/day needed | \ud83d\udd36 bogie: Notice (12315.597369752522/15000 km) | \u2705 brake_pad: Good (7139.954097927768/13000 km) | \ud83d\udd36 hvac: Notice (12742.851128202534/15000 km) | \ud83d\udea8 Cleaning overdue (10 days since last cleaning)",
+        "summary": "\u2705 Excellent condition"
+      }
+    },
+    {
+      "train_id": "TM004",
+      "score": 83.5,
+      "breakdown": {
+        "fitness_certificates": 100,
+        "job_cards": 45.0,
+        "branding_contracts": 100,
+        "mileage_balancing": 100,
+        "cleaning_status": 100
+      },
+      "details": {
+        "fitness_certificates": "\u2705 All fitness certificates valid",
+        "job_cards": "\u26a0\ufe0f High: Window seal replacement (7.00328248277853h) | \ud83d\udd37 Low: Lubrication of moving parts (5.181889904868427h)",
+        "branding_contracts": "\u2705 Microsoft: 1.7h/day needed",
+        "mileage_balancing": "\u2705 bogie: Good (8042.005480154164/15000 km) | \u2705 brake_pad: Good (6655.063788119034/13000 km) | \u2705 hvac: Good (11072.521195813359/15000 km)",
+        "cleaning_status": "\u2705 Cleaning not needed yet (4 days since last cleaning)",
+        "combined": "\u2705 All fitness certificates valid | \u26a0\ufe0f High: Window seal replacement (7.00328248277853h) | \ud83d\udd37 Low: Lubrication of moving parts (5.181889904868427h) | \u2705 Microsoft: 1.7h/day needed | \u2705 bogie: Good (8042.005480154164/15000 km) | \u2705 brake_pad: Good (6655.063788119034/13000 km) | \u2705 hvac: Good (11072.521195813359/15000 km) | \u2705 Cleaning not needed yet (4 days since last cleaning)",
+        "summary": "\ud83d\udd35 Good condition"
+      }
+    },
+    {
+      "train_id": "TM005",
+      "score": 84.0,
+      "breakdown": {
+        "fitness_certificates": 100,
+        "job_cards": 100,
+        "branding_contracts": 100,
+        "mileage_balancing": 45.0,
+        "cleaning_status": 50
+      },
+      "details": {
+        "fitness_certificates": "\u2705 All fitness certificates valid",
+        "job_cards": "\u2705 No open job cards",
+        "branding_contracts": "\u2705 No branding contracts",
+        "mileage_balancing": "\ud83d\udea8 bogie: Critical (14326.984862775553/15000 km) | \ud83d\udd36 brake_pad: Notice (10503.82810162542/13000 km) | \u2705 hvac: Good (10659.22811011361/15000 km)",
+        "cleaning_status": "\ud83d\udea8 Cleaning overdue (9 days since last cleaning)",
+        "combined": "\u2705 All fitness certificates valid | \u2705 No open job cards | \u2705 No branding contracts | \ud83d\udea8 bogie: Critical (14326.984862775553/15000 km) | \ud83d\udd36 brake_pad: Notice (10503.82810162542/13000 km) | \u2705 hvac: Good (10659.22811011361/15000 km) | \ud83d\udea8 Cleaning overdue (9 days since last cleaning)",
+        "summary": "\ud83d\udd35 Good condition"
+      }
+    },
+    {
+      "train_id": "TM006",
+      "score": 70.0,
+      "breakdown": {
+        "fitness_certificates": 0,
+        "job_cards": 100,
+        "branding_contracts": 100,
+        "mileage_balancing": 100,
+        "cleaning_status": 100
+      },
+      "details": {
+        "fitness_certificates": "\u274c Expired certificates: rolling_stock, telecom",
+        "job_cards": "\u2705 No open job cards",
+        "branding_contracts": "\u2705 No branding contracts",
+        "mileage_balancing": "\u2705 bogie: Good (8247.690882922412/15000 km) | \u2705 brake_pad: Good (8725.36450518696/13000 km) | \u2705 hvac: Good (10389.575165126367/15000 km)",
+        "cleaning_status": "\u2705 Cleaning not needed yet (2 days since last cleaning)",
+        "combined": "\u274c Expired certificates: rolling_stock, telecom | \u2705 No open job cards | \u2705 No branding contracts | \u2705 bogie: Good (8247.690882922412/15000 km) | \u2705 brake_pad: Good (8725.36450518696/13000 km) | \u2705 hvac: Good (10389.575165126367/15000 km) | \u2705 Cleaning not needed yet (2 days since last cleaning)",
+        "summary": "\u274c Expired certificates | \ud83d\udfe1 Moderate condition"
+      }
+    },
+    {
+      "train_id": "TM007",
+      "score": 100,
+      "breakdown": {
+        "fitness_certificates": 100,
+        "job_cards": 100,
+        "branding_contracts": 150.0,
+        "mileage_balancing": 31.5,
+        "cleaning_status": 100
+      },
+      "details": {
+        "fitness_certificates": "\u2705 All fitness certificates valid",
+        "job_cards": "\u2705 No open job cards",
+        "branding_contracts": "\ud83d\udea8 Microsoft: 10.9h/day needed",
+        "mileage_balancing": "\ud83d\udea8 bogie: Critical (14482.675899837759/15000 km) | \u26a0\ufe0f brake_pad: Warning (11011.96193517306/13000 km) | \ud83d\udd36 hvac: Notice (12735.081802109284/15000 km)",
+        "cleaning_status": "\u2705 Cleaning not needed yet (3 days since last cleaning)",
+        "combined": "\u2705 All fitness certificates valid | \u2705 No open job cards | \ud83d\udea8 Microsoft: 10.9h/day needed | \ud83d\udea8 bogie: Critical (14482.675899837759/15000 km) | \u26a0\ufe0f brake_pad: Warning (11011.96193517306/13000 km) | \ud83d\udd36 hvac: Notice (12735.081802109284/15000 km) | \u2705 Cleaning not needed yet (3 days since last cleaning)",
+        "summary": "\ud83d\ude80 Branding urgency: 2 | \u2705 Excellent condition"
+      }
+    },
+    {
+      "train_id": "TM008",
+      "score": 55.8,
+      "breakdown": {
+        "fitness_certificates": 0,
+        "job_cards": 81.0,
+        "branding_contracts": 100,
+        "mileage_balancing": 70.0,
+        "cleaning_status": 75
+      },
+      "details": {
+        "fitness_certificates": "\u274c Expired certificates: signalling",
+        "job_cards": "\ud83d\udd37 Low: Dashboard polishing (7.63486953456995h), Lubrication of moving parts (6.049382298740699h)",
+        "branding_contracts": "\u2705 No branding contracts",
+        "mileage_balancing": "\u2705 bogie: Good (11169.135871482282/15000 km) | \u2705 brake_pad: Good (6693.894270234023/13000 km) | \u26a0\ufe0f hvac: Warning (13873.590476932832/15000 km)",
+        "cleaning_status": "\u26a0\ufe0f Cleaning due soon (6 days since last cleaning)",
+        "combined": "\u274c Expired certificates: signalling | \ud83d\udd37 Low: Dashboard polishing (7.63486953456995h), Lubrication of moving parts (6.049382298740699h) | \u2705 No branding contracts | \u2705 bogie: Good (11169.135871482282/15000 km) | \u2705 brake_pad: Good (6693.894270234023/13000 km) | \u26a0\ufe0f hvac: Warning (13873.590476932832/15000 km) | \u26a0\ufe0f Cleaning due soon (6 days since last cleaning)",
+        "summary": "\u274c Expired certificates | \ud83d\udd36 Needs attention"
+      }
+    },
+    {
+      "train_id": "TM009",
+      "score": 65.0,
+      "breakdown": {
+        "fitness_certificates": 100,
+        "job_cards": 0,
+        "branding_contracts": 100,
+        "mileage_balancing": 100,
+        "cleaning_status": 50
+      },
+      "details": {
+        "fitness_certificates": "\u2705 All fitness certificates valid",
+        "job_cards": "\u274c Critical: Brake system overhaul (3.773808271129412h) | \ud83d\udd37 Low: Interior cleaning (6.431662824312052h)",
+        "branding_contracts": "\u2705 Microsoft: 2.4h/day needed",
+        "mileage_balancing": "\u2705 bogie: Good (9365.755002429223/15000 km) | \u2705 brake_pad: Good (9959.147654181364/13000 km) | \u2705 hvac: Good (9893.126711649717/15000 km)",
+        "cleaning_status": "\ud83d\udea8 Cleaning overdue (10 days since last cleaning)",
+        "combined": "\u2705 All fitness certificates valid | \u274c Critical: Brake system overhaul (3.773808271129412h) | \ud83d\udd37 Low: Interior cleaning (6.431662824312052h) | \u2705 Microsoft: 2.4h/day needed | \u2705 bogie: Good (9365.755002429223/15000 km) | \u2705 brake_pad: Good (9959.147654181364/13000 km) | \u2705 hvac: Good (9893.126711649717/15000 km) | \ud83d\udea8 Cleaning overdue (10 days since last cleaning)",
+        "summary": "\u274c Critical job cards | \ud83d\udfe1 Moderate condition"
+      }
+    },
+    {
+      "train_id": "TM010",
+      "score": 57.0,
+      "breakdown": {
+        "fitness_certificates": 0,
+        "job_cards": 90.0,
+        "branding_contracts": 100,
+        "mileage_balancing": 50.0,
+        "cleaning_status": 100
+      },
+      "details": {
+        "fitness_certificates": "\u274c Expired certificates: telecom",
+        "job_cards": "\ud83d\udd37 Low: Dashboard polishing (5.349432729647654h)",
+        "branding_contracts": "\u2705 Samsung: 0.3h/day needed",
+        "mileage_balancing": "\ud83d\udea8 bogie: Critical (14272.337613495987/15000 km) | \u2705 brake_pad: Good (7915.329435372685/13000 km) | \u2705 hvac: Good (9460.629506227955/15000 km)",
+        "cleaning_status": "\u2705 Cleaning not needed yet (2 days since last cleaning)",
+        "combined": "\u274c Expired certificates: telecom | \ud83d\udd37 Low: Dashboard polishing (5.349432729647654h) | \u2705 Samsung: 0.3h/day needed | \ud83d\udea8 bogie: Critical (14272.337613495987/15000 km) | \u2705 brake_pad: Good (7915.329435372685/13000 km) | \u2705 hvac: Good (9460.629506227955/15000 km) | \u2705 Cleaning not needed yet (2 days since last cleaning)",
+        "summary": "\u274c Expired certificates | \ud83d\udd36 Needs attention"
+      }
+    },
+    {
+      "train_id": "TM011",
+      "score": 84.5,
+      "breakdown": {
+        "fitness_certificates": 100,
+        "job_cards": 100,
+        "branding_contracts": 100,
+        "mileage_balancing": 35.0,
+        "cleaning_status": 75
+      },
+      "details": {
+        "fitness_certificates": "\u2705 All fitness certificates valid",
+        "job_cards": "\u2705 No open job cards",
+        "branding_contracts": "\u2705 Coca-Cola: 0.2h/day needed",
+        "mileage_balancing": "\u26a0\ufe0f bogie: Warning (13450.608036241974/15000 km) | \u2705 brake_pad: Good (9607.705980209603/13000 km) | \ud83d\udea8 hvac: Critical (14812.864640684607/15000 km)",
+        "cleaning_status": "\u26a0\ufe0f Cleaning due soon (7 days since last cleaning)",
+        "combined": "\u2705 All fitness certificates valid | \u2705 No open job cards | \u2705 Coca-Cola: 0.2h/day needed | \u26a0\ufe0f bogie: Warning (13450.608036241974/15000 km) | \u2705 brake_pad: Good (9607.705980209603/13000 km) | \ud83d\udea8 hvac: Critical (14812.864640684607/15000 km) | \u26a0\ufe0f Cleaning due soon (7 days since last cleaning)",
+        "summary": "\ud83d\udd35 Good condition"
+      }
+    },
+    {
+      "train_id": "TM012",
+      "score": 94.0,
+      "breakdown": {
+        "fitness_certificates": 100,
+        "job_cards": 100,
+        "branding_contracts": 100,
+        "mileage_balancing": 70.0,
+        "cleaning_status": 100
+      },
+      "details": {
+        "fitness_certificates": "\u2705 All fitness certificates valid",
+        "job_cards": "\u2705 No open job cards",
+        "branding_contracts": "\u2705 Apple: 2.1h/day needed",
+        "mileage_balancing": "\u2705 bogie: Good (8416.566262929266/15000 km) | \u26a0\ufe0f brake_pad: Warning (11333.999173529059/13000 km) | \u2705 hvac: Good (9980.102360913104/15000 km)",
+        "cleaning_status": "\u2705 Cleaning not needed yet (0 days since last cleaning)",
+        "combined": "\u2705 All fitness certificates valid | \u2705 No open job cards | \u2705 Apple: 2.1h/day needed | \u2705 bogie: Good (8416.566262929266/15000 km) | \u26a0\ufe0f brake_pad: Warning (11333.999173529059/13000 km) | \u2705 hvac: Good (9980.102360913104/15000 km) | \u2705 Cleaning not needed yet (0 days since last cleaning)",
+        "summary": "\u2705 Excellent condition"
+      }
+    },
+    {
+      "train_id": "TM013",
+      "score": 90.0,
+      "breakdown": {
+        "fitness_certificates": 100,
+        "job_cards": 100,
+        "branding_contracts": 100,
+        "mileage_balancing": 50.0,
+        "cleaning_status": 100
+      },
+      "details": {
+        "fitness_certificates": "\u2705 All fitness certificates valid",
+        "job_cards": "\u2705 No open job cards",
+        "branding_contracts": "\u2705 Samsung: 0.9h/day needed",
+        "mileage_balancing": "\ud83d\udea8 bogie: Critical (14483.679221366645/15000 km) | \u2705 brake_pad: Good (7083.650423345747/13000 km) | \u2705 hvac: Good (11674.371546985623/15000 km)",
+        "cleaning_status": "\u2705 Cleaning not needed yet (3 days since last cleaning)",
+        "combined": "\u2705 All fitness certificates valid | \u2705 No open job cards | \u2705 Samsung: 0.9h/day needed | \ud83d\udea8 bogie: Critical (14483.679221366645/15000 km) | \u2705 brake_pad: Good (7083.650423345747/13000 km) | \u2705 hvac: Good (11674.371546985623/15000 km) | \u2705 Cleaning not needed yet (3 days since last cleaning)",
+        "summary": "\ud83d\udd35 Good condition"
+      }
+    },
+    {
+      "train_id": "TM014",
+      "score": 79.0,
+      "breakdown": {
+        "fitness_certificates": 100,
+        "job_cards": 50.0,
+        "branding_contracts": 100,
+        "mileage_balancing": 70.0,
+        "cleaning_status": 100
+      },
+      "details": {
+        "fitness_certificates": "\u2705 All fitness certificates valid",
+        "job_cards": "\u26a0\ufe0f High: AC unit maintenance (5.628009966859279h)",
+        "branding_contracts": "\u2705 No branding contracts",
+        "mileage_balancing": "\u26a0\ufe0f bogie: Warning (13043.752194146757/15000 km) | \u2705 brake_pad: Good (7231.301993936542/13000 km) | \u2705 hvac: Good (11908.290255929518/15000 km)",
+        "cleaning_status": "\u2705 Cleaning not needed yet (0 days since last cleaning)",
+        "combined": "\u2705 All fitness certificates valid | \u26a0\ufe0f High: AC unit maintenance (5.628009966859279h) | \u2705 No branding contracts | \u26a0\ufe0f bogie: Warning (13043.752194146757/15000 km) | \u2705 brake_pad: Good (7231.301993936542/13000 km) | \u2705 hvac: Good (11908.290255929518/15000 km) | \u2705 Cleaning not needed yet (0 days since last cleaning)",
+        "summary": "\ud83d\udfe1 Moderate condition"
+      }
+    },
+    {
+      "train_id": "TM015",
+      "score": 74.125,
+      "breakdown": {
+        "fitness_certificates": 100,
+        "job_cards": 33.75,
+        "branding_contracts": 100,
+        "mileage_balancing": 70.0,
+        "cleaning_status": 100
+      },
+      "details": {
+        "fitness_certificates": "\u2705 All fitness certificates valid",
+        "job_cards": "\u26a0\ufe0f High: Door mechanism adjustment (4.9838417790716925h) | \ud83d\udd36 Medium: Handrail maintenance (3.853821502719429h) | \ud83d\udd37 Low: Lubrication of moving parts (5.505961375322038h)",
+        "branding_contracts": "\u2705 Microsoft: 1.6h/day needed",
+        "mileage_balancing": "\u2705 bogie: Good (10074.280715009701/15000 km) | \u2705 brake_pad: Good (8756.674204596493/13000 km) | \u26a0\ufe0f hvac: Warning (13403.288162927203/15000 km)",
+        "cleaning_status": "\u2705 Cleaning not needed yet (2 days since last cleaning)",
+        "combined": "\u2705 All fitness certificates valid | \u26a0\ufe0f High: Door mechanism adjustment (4.9838417790716925h) | \ud83d\udd36 Medium: Handrail maintenance (3.853821502719429h) | \ud83d\udd37 Low: Lubrication of moving parts (5.505961375322038h) | \u2705 Microsoft: 1.6h/day needed | \u2705 bogie: Good (10074.280715009701/15000 km) | \u2705 brake_pad: Good (8756.674204596493/13000 km) | \u26a0\ufe0f hvac: Warning (13403.288162927203/15000 km) | \u2705 Cleaning not needed yet (2 days since last cleaning)",
+        "summary": "\ud83d\udfe1 Moderate condition"
+      }
+    },
+    {
+      "train_id": "TM016",
+      "score": 89.0,
+      "breakdown": {
+        "fitness_certificates": 100,
+        "job_cards": 100,
+        "branding_contracts": 100,
+        "mileage_balancing": 70.0,
+        "cleaning_status": 50
+      },
+      "details": {
+        "fitness_certificates": "\u2705 All fitness certificates valid",
+        "job_cards": "\u2705 No open job cards",
+        "branding_contracts": "\u2705 No branding contracts",
+        "mileage_balancing": "\u26a0\ufe0f bogie: Warning (13688.967614284973/15000 km) | \u2705 brake_pad: Good (9739.447392901737/13000 km) | \u2705 hvac: Good (9232.860502088202/15000 km)",
+        "cleaning_status": "\ud83d\udea8 Cleaning overdue (8 days since last cleaning)",
+        "combined": "\u2705 All fitness certificates valid | \u2705 No open job cards | \u2705 No branding contracts | \u26a0\ufe0f bogie: Warning (13688.967614284973/15000 km) | \u2705 brake_pad: Good (9739.447392901737/13000 km) | \u2705 hvac: Good (9232.860502088202/15000 km) | \ud83d\udea8 Cleaning overdue (8 days since last cleaning)",
+        "summary": "\ud83d\udd35 Good condition"
+      }
+    },
+    {
+      "train_id": "TM017",
+      "score": 80.0,
+      "breakdown": {
+        "fitness_certificates": 100,
+        "job_cards": 75.0,
+        "branding_contracts": 100,
+        "mileage_balancing": 50.0,
+        "cleaning_status": 75
+      },
+      "details": {
+        "fitness_certificates": "\u2705 All fitness certificates valid",
+        "job_cards": "\ud83d\udd36 Medium: Handrail maintenance (2.6241143940406273h)",
+        "branding_contracts": "\u2705 Pepsi: 3.6h/day needed",
+        "mileage_balancing": "\u2705 bogie: Good (8500.250474666998/15000 km) | \u2705 brake_pad: Good (8922.309025878398/13000 km) | \ud83d\udea8 hvac: Critical (14205.949537027453/15000 km)",
+        "cleaning_status": "\u26a0\ufe0f Cleaning due soon (6 days since last cleaning)",
+        "combined": "\u2705 All fitness certificates valid | \ud83d\udd36 Medium: Handrail maintenance (2.6241143940406273h) | \u2705 Pepsi: 3.6h/day needed | \u2705 bogie: Good (8500.250474666998/15000 km) | \u2705 brake_pad: Good (8922.309025878398/13000 km) | \ud83d\udea8 hvac: Critical (14205.949537027453/15000 km) | \u26a0\ufe0f Cleaning due soon (6 days since last cleaning)",
+        "summary": "\ud83d\udfe1 Moderate condition"
+      }
+    },
+    {
+      "train_id": "TM018",
+      "score": 82.0,
+      "breakdown": {
+        "fitness_certificates": 100,
+        "job_cards": 100,
+        "branding_contracts": 100,
+        "mileage_balancing": 35.0,
+        "cleaning_status": 50
+      },
+      "details": {
+        "fitness_certificates": "\u2705 All fitness certificates valid",
+        "job_cards": "\u2705 No open job cards",
+        "branding_contracts": "\u2705 Coca-Cola: 2.1h/day needed",
+        "mileage_balancing": "\ud83d\udea8 bogie: Critical (14272.780363173579/15000 km) | \u2705 brake_pad: Good (9835.140769471072/13000 km) | \u26a0\ufe0f hvac: Warning (13215.778804803696/15000 km)",
+        "cleaning_status": "\ud83d\udea8 Cleaning overdue (10 days since last cleaning)",
+        "combined": "\u2705 All fitness certificates valid | \u2705 No open job cards | \u2705 Coca-Cola: 2.1h/day needed | \ud83d\udea8 bogie: Critical (14272.780363173579/15000 km) | \u2705 brake_pad: Good (9835.140769471072/13000 km) | \u26a0\ufe0f hvac: Warning (13215.778804803696/15000 km) | \ud83d\udea8 Cleaning overdue (10 days since last cleaning)",
+        "summary": "\ud83d\udd35 Good condition"
+      }
+    },
+    {
+      "train_id": "TM019",
+      "score": 83.3,
+      "breakdown": {
+        "fitness_certificates": 100,
+        "job_cards": 90.0,
+        "branding_contracts": 100,
+        "mileage_balancing": 31.5,
+        "cleaning_status": 100
+      },
+      "details": {
+        "fitness_certificates": "\u2705 All fitness certificates valid",
+        "job_cards": "\ud83d\udd37 Low: Interior cleaning (7.801157840798732h)",
+        "branding_contracts": "\u2705 Samsung: 1.4h/day needed",
+        "mileage_balancing": "\u26a0\ufe0f bogie: Warning (13561.6423806473/15000 km) | \ud83d\udd36 brake_pad: Notice (10270.669155693467/13000 km) | \ud83d\udea8 hvac: Critical (14401.026398273836/15000 km)",
+        "cleaning_status": "\u2705 Cleaning not needed yet (4 days since last cleaning)",
+        "combined": "\u2705 All fitness certificates valid | \ud83d\udd37 Low: Interior cleaning (7.801157840798732h) | \u2705 Samsung: 1.4h/day needed | \u26a0\ufe0f bogie: Warning (13561.6423806473/15000 km) | \ud83d\udd36 brake_pad: Notice (10270.669155693467/13000 km) | \ud83d\udea8 hvac: Critical (14401.026398273836/15000 km) | \u2705 Cleaning not needed yet (4 days since last cleaning)",
+        "summary": "\ud83d\udd35 Good condition"
+      }
+    },
+    {
+      "train_id": "TM020",
+      "score": 91.85000000000001,
+      "breakdown": {
+        "fitness_certificates": 100,
+        "job_cards": 75.0,
+        "branding_contracts": 120.0,
+        "mileage_balancing": 45.0,
+        "cleaning_status": 100
+      },
+      "details": {
+        "fitness_certificates": "\u2705 All fitness certificates valid",
+        "job_cards": "\ud83d\udd36 Medium: Handrail maintenance (2.1235158182775487h)",
+        "branding_contracts": "\u26a0\ufe0f Coca-Cola: 7.3h/day needed",
+        "mileage_balancing": "\u2705 bogie: Good (11360.405243499472/15000 km) | \ud83d\udd36 brake_pad: Notice (10240.803430615124/13000 km) | \ud83d\udea8 hvac: Critical (14412.418128598227/15000 km)",
+        "cleaning_status": "\u2705 Cleaning not needed yet (5 days since last cleaning)",
+        "combined": "\u2705 All fitness certificates valid | \ud83d\udd36 Medium: Handrail maintenance (2.1235158182775487h) | \u26a0\ufe0f Coca-Cola: 7.3h/day needed | \u2705 bogie: Good (11360.405243499472/15000 km) | \ud83d\udd36 brake_pad: Notice (10240.803430615124/13000 km) | \ud83d\udea8 hvac: Critical (14412.418128598227/15000 km) | \u2705 Cleaning not needed yet (5 days since last cleaning)",
+        "summary": "\ud83d\ude80 Branding urgency: 1 | \u2705 Excellent condition"
+      }
+    },
+    {
+      "train_id": "TM021",
+      "score": 91.2,
+      "breakdown": {
+        "fitness_certificates": 100,
+        "job_cards": 100,
+        "branding_contracts": 100,
+        "mileage_balancing": 81.0,
+        "cleaning_status": 50
+      },
+      "details": {
+        "fitness_certificates": "\u2705 All fitness certificates valid",
+        "job_cards": "\u2705 No open job cards",
+        "branding_contracts": "\u2705 Pepsi: 2.8h/day needed",
+        "mileage_balancing": "\ud83d\udd36 bogie: Notice (12329.981061937986/15000 km) | \ud83d\udd36 brake_pad: Notice (10639.094573740822/13000 km) | \u2705 hvac: Good (10603.783930667383/15000 km)",
+        "cleaning_status": "\ud83d\udea8 Cleaning overdue (8 days since last cleaning)",
+        "combined": "\u2705 All fitness certificates valid | \u2705 No open job cards | \u2705 Pepsi: 2.8h/day needed | \ud83d\udd36 bogie: Notice (12329.981061937986/15000 km) | \ud83d\udd36 brake_pad: Notice (10639.094573740822/13000 km) | \u2705 hvac: Good (10603.783930667383/15000 km) | \ud83d\udea8 Cleaning overdue (8 days since last cleaning)",
+        "summary": "\u2705 Excellent condition"
+      }
+    },
+    {
+      "train_id": "TM022",
+      "score": 59.8,
+      "breakdown": {
+        "fitness_certificates": 0,
+        "job_cards": 100,
+        "branding_contracts": 100,
+        "mileage_balancing": 49.0,
+        "cleaning_status": 100
+      },
+      "details": {
+        "fitness_certificates": "\u274c Expired certificates: rolling_stock, signalling",
+        "job_cards": "\u2705 No open job cards",
+        "branding_contracts": "\u2705 No branding contracts",
+        "mileage_balancing": "\u26a0\ufe0f bogie: Warning (13738.207986749505/15000 km) | \u26a0\ufe0f brake_pad: Warning (11468.577542139978/13000 km) | \u2705 hvac: Good (11102.473140500972/15000 km)",
+        "cleaning_status": "\u2705 Cleaning not needed yet (3 days since last cleaning)",
+        "combined": "\u274c Expired certificates: rolling_stock, signalling | \u2705 No open job cards | \u2705 No branding contracts | \u26a0\ufe0f bogie: Warning (13738.207986749505/15000 km) | \u26a0\ufe0f brake_pad: Warning (11468.577542139978/13000 km) | \u2705 hvac: Good (11102.473140500972/15000 km) | \u2705 Cleaning not needed yet (3 days since last cleaning)",
+        "summary": "\u274c Expired certificates | \ud83d\udd36 Needs attention"
+      }
+    },
+    {
+      "train_id": "TM023",
+      "score": 97.5,
+      "breakdown": {
+        "fitness_certificates": 100,
+        "job_cards": 100,
+        "branding_contracts": 100,
+        "mileage_balancing": 100,
+        "cleaning_status": 75
+      },
+      "details": {
+        "fitness_certificates": "\u2705 All fitness certificates valid",
+        "job_cards": "\u2705 No open job cards",
+        "branding_contracts": "\u2705 Samsung: 0.5h/day needed",
+        "mileage_balancing": "\u2705 bogie: Good (10183.660235543226/15000 km) | \u2705 brake_pad: Good (6351.11787695549/13000 km) | \u2705 hvac: Good (11994.231338644851/15000 km)",
+        "cleaning_status": "\u26a0\ufe0f Cleaning due soon (6 days since last cleaning)",
+        "combined": "\u2705 All fitness certificates valid | \u2705 No open job cards | \u2705 Samsung: 0.5h/day needed | \u2705 bogie: Good (10183.660235543226/15000 km) | \u2705 brake_pad: Good (6351.11787695549/13000 km) | \u2705 hvac: Good (11994.231338644851/15000 km) | \u26a0\ufe0f Cleaning due soon (6 days since last cleaning)",
+        "summary": "\u2705 Excellent condition"
+      }
+    },
+    {
+      "train_id": "TM024",
+      "score": 77.5,
+      "breakdown": {
+        "fitness_certificates": 100,
+        "job_cards": 45.0,
+        "branding_contracts": 100,
+        "mileage_balancing": 70.0,
+        "cleaning_status": 100
+      },
+      "details": {
+        "fitness_certificates": "\u2705 All fitness certificates valid",
+        "job_cards": "\u26a0\ufe0f High: Door mechanism adjustment (2.3100642060342045h) | \ud83d\udd37 Low: Interior cleaning (1.5744928746723459h)",
+        "branding_contracts": "\u2705 No branding contracts",
+        "mileage_balancing": "\u2705 bogie: Good (8314.788308720968/15000 km) | \u26a0\ufe0f brake_pad: Warning (11075.144210223196/13000 km) | \u2705 hvac: Good (10596.572326655907/15000 km)",
+        "cleaning_status": "\u2705 Cleaning not needed yet (1 days since last cleaning)",
+        "combined": "\u2705 All fitness certificates valid | \u26a0\ufe0f High: Door mechanism adjustment (2.3100642060342045h) | \ud83d\udd37 Low: Interior cleaning (1.5744928746723459h) | \u2705 No branding contracts | \u2705 bogie: Good (8314.788308720968/15000 km) | \u26a0\ufe0f brake_pad: Warning (11075.144210223196/13000 km) | \u2705 hvac: Good (10596.572326655907/15000 km) | \u2705 Cleaning not needed yet (1 days since last cleaning)",
+        "summary": "\ud83d\udfe1 Moderate condition"
+      }
+    },
+    {
+      "train_id": "TM025",
+      "score": 82.15,
+      "breakdown": {
+        "fitness_certificates": 100,
+        "job_cards": 40.5,
+        "branding_contracts": 100,
+        "mileage_balancing": 100,
+        "cleaning_status": 100
+      },
+      "details": {
+        "fitness_certificates": "\u2705 All fitness certificates valid",
+        "job_cards": "\u26a0\ufe0f High: Window seal replacement (2.6480811717433568h) | \ud83d\udd37 Low: Lubrication of moving parts (3.372504191910577h), Dashboard polishing (3.2084727467727876h)",
+        "branding_contracts": "\u2705 Microsoft: 1.4h/day needed",
+        "mileage_balancing": "\u2705 bogie: Good (9234.574651808074/15000 km) | \u2705 brake_pad: Good (8501.568840339629/13000 km) | \u2705 hvac: Good (9633.58172243005/15000 km)",
+        "cleaning_status": "\u2705 Cleaning not needed yet (4 days since last cleaning)",
+        "combined": "\u2705 All fitness certificates valid | \u26a0\ufe0f High: Window seal replacement (2.6480811717433568h) | \ud83d\udd37 Low: Lubrication of moving parts (3.372504191910577h), Dashboard polishing (3.2084727467727876h) | \u2705 Microsoft: 1.4h/day needed | \u2705 bogie: Good (9234.574651808074/15000 km) | \u2705 brake_pad: Good (8501.568840339629/13000 km) | \u2705 hvac: Good (9633.58172243005/15000 km) | \u2705 Cleaning not needed yet (4 days since last cleaning)",
+        "summary": "\ud83d\udd35 Good condition"
+      }
+    }
+  ],
+  "cleaning_assignments": [
+    {
+      "train_id": "TM018",
+      "start_time": "00:00:00",
+      "end_time": "03:00:00",
+      "crew_assigned": 3,
+      "priority": 82,
+      "reason": "Overdue for cleaning"
+    },
+    {
+      "train_id": "TM002",
+      "start_time": "02:00:00",
+      "end_time": "06:00:00",
+      "crew_assigned": 2,
+      "priority": 72,
+      "reason": "Overdue for cleaning"
+    },
+    {
+      "train_id": "TM003",
+      "start_time": "20:00:00",
+      "end_time": "23:00:00",
+      "crew_assigned": 1,
+      "priority": 91,
+      "reason": "Overdue for cleaning"
+    },
+    {
+      "train_id": "TM021",
+      "start_time": "20:00:00",
+      "end_time": "23:00:00",
+      "crew_assigned": 2,
+      "priority": 91,
+      "reason": "Overdue for cleaning"
+    },
+    {
+      "train_id": "TM016",
+      "start_time": "20:00:00",
+      "end_time": "00:00:00",
+      "crew_assigned": 3,
+      "priority": 89,
+      "reason": "Overdue for cleaning"
+    },
+    {
+      "train_id": "TM011",
+      "start_time": "23:00:00",
+      "end_time": "03:00:00",
+      "crew_assigned": 1,
+      "priority": 84,
+      "reason": "Overdue for cleaning"
+    },
+    {
+      "train_id": "TM005",
+      "start_time": "23:00:00",
+      "end_time": "02:00:00",
+      "crew_assigned": 2,
+      "priority": 84,
+      "reason": "Overdue for cleaning"
+    }
+  ],
+  "parking_assignments": [
+    {
+      "train_id": "TM006",
+      "track_id": "IBL01",
+      "position_in_track": 1,
+      "moves_required": 4,
+      "shunting_path": [
+        "PT11",
+        "IBL04",
+        "IBL03",
+        "IBL02",
+        "IBL01"
+      ]
+    },
+    {
+      "train_id": "TM008",
+      "track_id": "IBL02",
+      "position_in_track": 1,
+      "moves_required": 4,
+      "shunting_path": [
+        "PT09",
+        "PT10",
+        "IBL04",
+        "IBL03",
+        "IBL02"
+      ]
+    },
+    {
+      "train_id": "TM009",
+      "track_id": "IBL03",
+      "position_in_track": 1,
+      "moves_required": 3,
+      "shunting_path": [
+        "PT09",
+        "PT10",
+        "IBL04",
+        "IBL03"
+      ]
+    },
+    {
+      "train_id": "TM010",
+      "track_id": "IBL04",
+      "position_in_track": 1,
+      "moves_required": 4,
+      "shunting_path": [
+        "PT06",
+        "PT07",
+        "EXIT02",
+        "PT10",
+        "IBL04"
+      ]
+    },
+    {
+      "train_id": "TM022",
+      "track_id": "IBL05",
+      "position_in_track": 1,
+      "moves_required": 5,
+      "shunting_path": [
+        "PT05",
+        "PT06",
+        "PT07",
+        "EXIT02",
+        "PT10",
+        "IBL05"
+      ]
+    },
+    {
+      "train_id": "TM007",
+      "track_id": "PT01",
+      "position_in_track": 1,
+      "moves_required": 5,
+      "shunting_path": [
+        "PT09",
+        "EXIT02",
+        "PT07",
+        "PT06",
+        "EXIT01",
+        "PT01"
+      ]
+    },
+    {
+      "train_id": "TM019",
+      "track_id": "PT01",
+      "position_in_track": 2,
+      "moves_required": 4,
+      "shunting_path": [
+        "PT12",
+        "IBL04",
+        "IBL03",
+        "IBL02",
+        "PT01"
+      ]
+    },
+    {
+      "train_id": "TM023",
+      "track_id": "PT02",
+      "position_in_track": 1,
+      "moves_required": 4,
+      "shunting_path": [
+        "PT12",
+        "IBL04",
+        "IBL03",
+        "IBL02",
+        "PT02"
+      ]
+    },
+    {
+      "train_id": "TM025",
+      "track_id": "PT02",
+      "position_in_track": 2,
+      "moves_required": 1,
+      "shunting_path": [
+        "PT01",
+        "PT02"
+      ]
+    },
+    {
+      "train_id": "TM012",
+      "track_id": "PT03",
+      "position_in_track": 1,
+      "moves_required": 4,
+      "shunting_path": [
+        "PT12",
+        "IBL04",
+        "IBL03",
+        "IBL02",
+        "PT03"
+      ]
+    },
+    {
+      "train_id": "TM018",
+      "track_id": "PT03",
+      "position_in_track": 2,
+      "moves_required": 2,
+      "shunting_path": [
+        "PT06",
+        "EXIT01",
+        "PT03"
+      ]
+    },
+    {
+      "train_id": "TM020",
+      "track_id": "PT04",
+      "position_in_track": 1,
+      "moves_required": 0,
+      "shunting_path": [
+        "PT04"
+      ]
+    },
+    {
+      "train_id": "TM017",
+      "track_id": "PT04",
+      "position_in_track": 2,
+      "moves_required": 5,
+      "shunting_path": [
+        "PT10",
+        "EXIT02",
+        "PT07",
+        "PT06",
+        "EXIT01",
+        "PT04"
+      ]
+    },
+    {
+      "train_id": "TM003",
+      "track_id": "PT05",
+      "position_in_track": 1,
+      "moves_required": 4,
+      "shunting_path": [
+        "PT11",
+        "EXIT02",
+        "PT07",
+        "PT06",
+        "PT05"
+      ]
+    },
+    {
+      "train_id": "TM014",
+      "track_id": "PT05",
+      "position_in_track": 2,
+      "moves_required": 0,
+      "shunting_path": [
+        "PT05"
+      ]
+    },
+    {
+      "train_id": "TM021",
+      "track_id": "PT06",
+      "position_in_track": 1,
+      "moves_required": 3,
+      "shunting_path": [
+        "PT11",
+        "EXIT02",
+        "PT07",
+        "PT06"
+      ]
+    },
+    {
+      "train_id": "TM024",
+      "track_id": "PT06",
+      "position_in_track": 2,
+      "moves_required": 2,
+      "shunting_path": [
+        "PT01",
+        "EXIT01",
+        "PT06"
+      ]
+    },
+    {
+      "train_id": "TM013",
+      "track_id": "PT07",
+      "position_in_track": 1,
+      "moves_required": 3,
+      "shunting_path": [
+        "PT03",
+        "EXIT01",
+        "PT06",
+        "PT07"
+      ]
+    },
+    {
+      "train_id": "TM015",
+      "track_id": "PT07",
+      "position_in_track": 2,
+      "moves_required": 3,
+      "shunting_path": [
+        "PT03",
+        "EXIT01",
+        "PT06",
+        "PT07"
+      ]
+    },
+    {
+      "train_id": "TM016",
+      "track_id": "PT08",
+      "position_in_track": 1,
+      "moves_required": 4,
+      "shunting_path": [
+        "PT02",
+        "EXIT01",
+        "PT06",
+        "PT07",
+        "PT08"
+      ]
+    },
+    {
+      "train_id": "TM002",
+      "track_id": "PT08",
+      "position_in_track": 2,
+      "moves_required": 4,
+      "shunting_path": [
+        "PT03",
+        "EXIT01",
+        "PT06",
+        "PT07",
+        "PT08"
+      ]
+    },
+    {
+      "train_id": "TM001",
+      "track_id": "PT09",
+      "position_in_track": 1,
+      "moves_required": 1,
+      "shunting_path": [
+        "PT10",
+        "PT09"
+      ]
+    },
+    {
+      "train_id": "TM011",
+      "track_id": "PT10",
+      "position_in_track": 1,
+      "moves_required": 0,
+      "shunting_path": [
+        "PT10"
+      ]
+    },
+    {
+      "train_id": "TM005",
+      "track_id": "PT11",
+      "position_in_track": 1,
+      "moves_required": 3,
+      "shunting_path": [
+        "PT02",
+        "IBL02",
+        "IBL03",
+        "PT11"
+      ]
+    },
+    {
+      "train_id": "TM004",
+      "track_id": "PT12",
+      "position_in_track": 1,
+      "moves_required": 1,
+      "shunting_path": [
+        "PT11",
+        "PT12"
+      ]
+    }
+  ],
+  "trains_to_ibl": [
+    "TM006",
+    "TM008",
+    "TM009",
+    "TM010",
+    "TM022"
+  ],
+  "trains_to_service": [
+    "TM001",
+    "TM003",
+    "TM004",
+    "TM005",
+    "TM007",
+    "TM011",
+    "TM012",
+    "TM013",
+    "TM014",
+    "TM016",
+    "TM017",
+    "TM018",
+    "TM019",
+    "TM020",
+    "TM021",
+    "TM023",
+    "TM024",
+    "TM025"
+  ],
+  "trains_to_standby": [
+    "TM002",
+    "TM015"
+  ],
+  "explanation": {
+    "summary": "\ud83d\ude86 Optimization complete. 18 trains selected for service, 2 for standby, and 5 for IBL.",
+    "trains_to_ibl_reasons": {
+      "TM006": [
+        "\u274c Expired rolling_stock fitness certificate",
+        "\u274c Expired telecom fitness certificate"
+      ],
+      "TM008": [
+        "\u274c Expired signalling fitness certificate"
+      ],
+      "TM009": [
+        "\u274c Critical job card: Brake system overhaul"
+      ],
+      "TM010": [
+        "\u274c Expired telecom fitness certificate"
+      ],
+      "TM022": [
+        "\u274c Expired rolling_stock fitness certificate",
+        "\u274c Expired signalling fitness certificate"
+      ]
+    },
+    "service_train_reasons": {
+      "TM001": [
+        "\u2705 High overall readiness score"
+      ],
+      "TM003": [
+        "\u2705 High overall readiness score"
+      ],
+      "TM004": [
+        "\u2705 High overall readiness score"
+      ],
+      "TM005": [
+        "\u2705 High overall readiness score"
+      ],
+      "TM007": [
+        "\u2705 High overall readiness score",
+        "\u26a0\ufe0f Urgent branding commitment for Microsoft"
+      ],
+      "TM011": [
+        "\u2705 High overall readiness score"
+      ],
+      "TM012": [
+        "\u2705 High overall readiness score"
+      ],
+      "TM013": [
+        "\u2705 High overall readiness score"
+      ],
+      "TM014": [],
+      "TM016": [
+        "\u2705 High overall readiness score"
+      ],
+      "TM017": [],
+      "TM018": [
+        "\u2705 High overall readiness score"
+      ],
+      "TM019": [
+        "\u2705 High overall readiness score"
+      ],
+      "TM020": [
+        "\u2705 High overall readiness score",
+        "\u26a0\ufe0f Urgent branding commitment for Coca-Cola"
+      ],
+      "TM021": [
+        "\u2705 High overall readiness score"
+      ],
+      "TM023": [
+        "\u2705 High overall readiness score"
+      ],
+      "TM024": [],
+      "TM025": [
+        "\u2705 High overall readiness score"
+      ]
+    },
+    "cleaning_priorities": {
+      "TM002": {
+        "priority": "\ud83d\udea8 High",
+        "reason": "Last cleaned 9 days ago (exceeds 7-day threshold)"
+      },
+      "TM003": {
+        "priority": "\ud83d\udea8 High",
+        "reason": "Last cleaned 10 days ago (exceeds 7-day threshold)"
+      },
+      "TM005": {
+        "priority": "\ud83d\udea8 High",
+        "reason": "Last cleaned 9 days ago (exceeds 7-day threshold)"
+      },
+      "TM011": {
+        "priority": "\ud83d\udea8 High",
+        "reason": "Last cleaned 7 days ago (exceeds 7-day threshold)"
+      },
+      "TM016": {
+        "priority": "\ud83d\udea8 High",
+        "reason": "Last cleaned 8 days ago (exceeds 7-day threshold)"
+      },
+      "TM017": {
+        "priority": "\u26a0\ufe0f Medium",
+        "reason": "Last cleaned 6 days ago (approaching 7-day threshold)"
+      },
+      "TM018": {
+        "priority": "\ud83d\udea8 High",
+        "reason": "Last cleaned 10 days ago (exceeds 7-day threshold)"
+      },
+      "TM020": {
+        "priority": "\u26a0\ufe0f Medium",
+        "reason": "Last cleaned 5 days ago (approaching 7-day threshold)"
+      },
+      "TM021": {
+        "priority": "\ud83d\udea8 High",
+        "reason": "Last cleaned 8 days ago (exceeds 7-day threshold)"
+      },
+      "TM023": {
+        "priority": "\u26a0\ufe0f Medium",
+        "reason": "Last cleaned 6 days ago (approaching 7-day threshold)"
+      }
+    },
+    "parking_optimization": "Total shunting moves required: 25"
+  },
+  "total_shunting_moves": 73,
+  "metadata": {
+    "solver_status": "OPTIMAL",
+    "objective_value": 164105.0,
+    "wall_time": 0.0029270000000000003,
+    "required_trains": 18,
+    "standby_trains": 2
+  }
+}

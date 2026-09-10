@@ -1,0 +1,202 @@
+[
+  {
+    "train_id": "TM006",
+    "bay": "IBL01",
+    "position": 1,
+    "status": "maintenance",
+    "arrival_time": "2026-09-10T17:32:10.707267",
+    "notes": "Assigned from Layer 1 optimization"
+  },
+  {
+    "train_id": "TM008",
+    "bay": "IBL02",
+    "position": 1,
+    "status": "maintenance",
+    "arrival_time": "2026-09-10T17:32:10.707267",
+    "notes": "Assigned from Layer 1 optimization"
+  },
+  {
+    "train_id": "TM009",
+    "bay": "IBL03",
+    "position": 1,
+    "status": "maintenance",
+    "arrival_time": "2026-09-10T17:32:10.707267",
+    "notes": "Assigned from Layer 1 optimization"
+  },
+  {
+    "train_id": "TM010",
+    "bay": "IBL04",
+    "position": 1,
+    "status": "maintenance",
+    "arrival_time": "2026-09-10T17:32:10.707267",
+    "notes": "Assigned from Layer 1 optimization"
+  },
+  {
+    "train_id": "TM022",
+    "bay": "IBL05",
+    "position": 1,
+    "status": "maintenance",
+    "arrival_time": "2026-09-10T17:32:10.707267",
+    "notes": "Assigned from Layer 1 optimization"
+  },
+  {
+    "train_id": "TM007",
+    "bay": "PT01",
+    "position": 1,
+    "status": "parking",
+    "arrival_time": "2026-09-10T17:32:10.707267",
+    "notes": "Assigned from Layer 1 optimization"
+  },
+  {
+    "train_id": "TM019",
+    "bay": "PT01",
+    "position": 2,
+    "status": "parking",
+    "arrival_time": "2026-09-10T17:32:10.707267",
+    "notes": "Assigned from Layer 1 optimization"
+  },
+  {
+    "train_id": "TM023",
+    "bay": "PT02",
+    "position": 1,
+    "status": "parking",
+    "arrival_time": "2026-09-10T17:32:10.707267",
+    "notes": "Assigned from Layer 1 optimization"
+  },
+  {
+    "train_id": "TM025",
+    "bay": "PT02",
+    "position": 2,
+    "status": "parking",
+    "arrival_time": "2026-09-10T17:32:10.707267",
+    "notes": "Assigned from Layer 1 optimization"
+  },
+  {
+    "train_id": "TM012",
+    "bay": "PT03",
+    "position": 1,
+    "status": "parking",
+    "arrival_time": "2026-09-10T17:32:10.707267",
+    "notes": "Assigned from Layer 1 optimization"
+  },
+  {
+    "train_id": "TM018",
+    "bay": "PT03",
+    "position": 2,
+    "status": "parking",
+    "arrival_time": "2026-09-10T17:32:10.707267",
+    "notes": "Assigned from Layer 1 optimization"
+  },
+  {
+    "train_id": "TM020",
+    "bay": "PT04",
+    "position": 1,
+    "status": "parking",
+    "arrival_time": "2026-09-10T17:32:10.707267",
+    "notes": "Assigned from Layer 1 optimization"
+  },
+  {
+    "train_id": "TM017",
+    "bay": "PT04",
+    "position": 2,
+    "status": "parking",
+    "arrival_time": "2026-09-10T17:32:10.707267",
+    "notes": "Assigned from Layer 1 optimization"
+  },
+  {
+    "train_id": "TM003",
+    "bay": "PT05",
+    "position": 1,
+    "status": "parking",
+    "arrival_time": "2026-09-10T17:32:10.707267",
+    "notes": "Assigned from Layer 1 optimization"
+  },
+  {
+    "train_id": "TM014",
+    "bay": "PT05",
+    "position": 2,
+    "status": "parking",
+    "arrival_time": "2026-09-10T17:32:10.707267",
+    "notes": "Assigned from Layer 1 optimization"
+  },
+  {
+    "train_id": "TM021",
+    "bay": "PT06",
+    "position": 1,
+    "status": "parking",
+    "arrival_time": "2026-09-10T17:32:10.707267",
+    "notes": "Assigned from Layer 1 optimization"
+  },
+  {
+    "train_id": "TM024",
+    "bay": "PT06",
+    "position": 2,
+    "status": "parking",
+    "arrival_time": "2026-09-10T17:32:10.707267",
+    "notes": "Assigned from Layer 1 optimization"
+  },
+  {
+    "train_id": "TM013",
+    "bay": "PT07",
+    "position": 1,
+    "status": "parking",
+    "arrival_time": "2026-09-10T17:32:10.707267",
+    "notes": "Assigned from Layer 1 optimization"
+  },
+  {
+    "train_id": "TM015",
+    "bay": "PT07",
+    "position": 2,
+    "status": "parking",
+    "arrival_time": "2026-09-10T17:32:10.707267",
+    "notes": "Assigned from Layer 1 optimization"
+  },
+  {
+    "train_id": "TM016",
+    "bay": "PT08",
+    "position": 1,
+    "status": "parking",
+    "arrival_time": "2026-09-10T17:32:10.707267",
+    "notes": "Assigned from Layer 1 optimization"
+  },
+  {
+    "train_id": "TM002",
+    "bay": "PT08",
+    "position": 2,
+    "status": "parking",
+    "arrival_time": "2026-09-10T17:32:10.707267",
+    "notes": "Assigned from Layer 1 optimization"
+  },
+  {
+    "train_id": "TM001",
+    "bay": "PT09",
+    "position": 1,
+    "status": "parking",
+    "arrival_time": "2026-09-10T17:32:10.707267",
+    "notes": "Assigned from Layer 1 optimization"
+  },
+  {
+    "train_id": "TM011",
+    "bay": "PT10",
+    "position": 1,
+    "status": "parking",
+    "arrival_time": "2026-09-10T17:32:10.707267",
+    "notes": "Assigned from Layer 1 optimization"
+  },
+  {
+    "train_id": "TM005",
+    "bay": "PT11",
+    "position": 1,
+    "status": "parking",
+    "arrival_time": "2026-09-10T17:32:10.707267",
+    "notes": "Assigned from Layer 1 optimization"
+  },
+  {
+    "train_id": "TM004",
+    "bay": "PT12",
+    "position": 1,
+    "status": "parking",
+    "arrival_time": "2026-09-10T17:32:10.707267",
+    "notes": "Assigned from Layer 1 optimization"
+  }
+]

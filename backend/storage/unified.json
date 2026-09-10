@@ -1,0 +1,1511 @@
+{
+  "trains": [
+    {
+      "id": "TM001",
+      "fitness_certificates": {
+        "rolling_stock": {
+          "department": "rolling_stock",
+          "issue_date": "2026-04-29",
+          "expiry_date": "2027-06-29",
+          "status": "valid"
+        },
+        "signalling": {
+          "department": "signalling",
+          "issue_date": "2026-02-11",
+          "expiry_date": "2026-10-25",
+          "status": "valid"
+        },
+        "telecom": {
+          "department": "telecom",
+          "issue_date": "2026-04-06",
+          "expiry_date": "2027-07-25",
+          "status": "valid"
+        }
+      },
+      "job_cards": [
+        {
+          "id": "JC4996",
+          "description": "Dashboard polishing",
+          "open_date": "2026-09-05",
+          "criticality": "low",
+          "estimated_hours": 1.112171076629541
+        }
+      ],
+      "branding_contracts": [
+        {
+          "brand": "Amazon",
+          "total_exposure_hours": 167,
+          "completed_hours": 43,
+          "deadline": "2026-11-05",
+          "priority": 8
+        }
+      ],
+      "current_mileage": {
+        "bogie": 10990.11723238428,
+        "brake_pad": 9639.84289991932,
+        "hvac": 14811.587769333248
+      },
+      "maintenance_thresholds": {
+        "bogie": 15000,
+        "brake_pad": 13000,
+        "hvac": 15000
+      },
+      "last_deep_cleaning": "2026-09-08",
+      "cleaning_duration": 3,
+      "status": "parking",
+      "current_position": "PT10-1"
+    },
+    {
+      "id": "TM002",
+      "fitness_certificates": {
+        "rolling_stock": {
+          "department": "rolling_stock",
+          "issue_date": "2025-10-10",
+          "expiry_date": "2027-05-27",
+          "status": "valid"
+        },
+        "signalling": {
+          "department": "signalling",
+          "issue_date": "2025-06-01",
+          "expiry_date": "2026-11-03",
+          "status": "valid"
+        },
+        "telecom": {
+          "department": "telecom",
+          "issue_date": "2025-10-07",
+          "expiry_date": "2027-06-26",
+          "status": "valid"
+        }
+      },
+      "job_cards": [
+        {
+          "id": "JC4050",
+          "description": "Window seal replacement",
+          "open_date": "2026-08-31",
+          "criticality": "high",
+          "estimated_hours": 1.6719515681092243
+        }
+      ],
+      "branding_contracts": [],
+      "current_mileage": {
+        "bogie": 13209.38920889678,
+        "brake_pad": 10255.270235788787,
+        "hvac": 10180.441384201715
+      },
+      "maintenance_thresholds": {
+        "bogie": 15000,
+        "brake_pad": 13000,
+        "hvac": 15000
+      },
+      "last_deep_cleaning": "2026-09-01",
+      "cleaning_duration": 4,
+      "status": "standby",
+      "current_position": "PT03-1"
+    },
+    {
+      "id": "TM003",
+      "fitness_certificates": {
+        "rolling_stock": {
+          "department": "rolling_stock",
+          "issue_date": "2026-01-03",
+          "expiry_date": "2027-01-09",
+          "status": "valid"
+        },
+        "signalling": {
+          "department": "signalling",
+          "issue_date": "2025-11-05",
+          "expiry_date": "2026-12-03",
+          "status": "valid"
+        },
+        "telecom": {
+          "department": "telecom",
+          "issue_date": "2025-10-23",
+          "expiry_date": "2027-08-10",
+          "status": "valid"
+        }
+      },
+      "job_cards": [],
+      "branding_contracts": [
+        {
+          "brand": "Coca-Cola",
+          "total_exposure_hours": 57,
+          "completed_hours": 4,
+          "deadline": "2026-10-16",
+          "priority": 6
+        }
+      ],
+      "current_mileage": {
+        "bogie": 12315.597369752522,
+        "brake_pad": 7139.954097927768,
+        "hvac": 12742.851128202534
+      },
+      "maintenance_thresholds": {
+        "bogie": 15000,
+        "brake_pad": 13000,
+        "hvac": 15000
+      },
+      "last_deep_cleaning": "2026-08-31",
+      "cleaning_duration": 3,
+      "status": "standby",
+      "current_position": "PT11-2"
+    },
+    {
+      "id": "TM004",
+      "fitness_certificates": {
+        "rolling_stock": {
+          "department": "rolling_stock",
+          "issue_date": "2025-06-04",
+          "expiry_date": "2027-08-10",
+          "status": "valid"
+        },
+        "signalling": {
+          "department": "signalling",
+          "issue_date": "2025-08-25",
+          "expiry_date": "2027-03-25",
+          "status": "valid"
+        },
+        "telecom": {
+          "department": "telecom",
+          "issue_date": "2025-06-06",
+          "expiry_date": "2026-11-24",
+          "status": "valid"
+        }
+      },
+      "job_cards": [
+        {
+          "id": "JC6535",
+          "description": "Lubrication of moving parts",
+          "open_date": "2026-08-28",
+          "criticality": "low",
+          "estimated_hours": 5.181889904868427
+        },
+        {
+          "id": "JC7970",
+          "description": "Window seal replacement",
+          "open_date": "2026-08-15",
+          "criticality": "high",
+          "estimated_hours": 7.00328248277853
+        }
+      ],
+      "branding_contracts": [
+        {
+          "brand": "Microsoft",
+          "total_exposure_hours": 189,
+          "completed_hours": 90,
+          "deadline": "2026-11-08",
+          "priority": 5
+        }
+      ],
+      "current_mileage": {
+        "bogie": 8042.005480154164,
+        "brake_pad": 6655.063788119034,
+        "hvac": 11072.521195813359
+      },
+      "maintenance_thresholds": {
+        "bogie": 15000,
+        "brake_pad": 13000,
+        "hvac": 15000
+      },
+      "last_deep_cleaning": "2026-09-06",
+      "cleaning_duration": 4,
+      "status": "parking",
+      "current_position": "PT11-2"
+    },
+    {
+      "id": "TM005",
+      "fitness_certificates": {
+        "rolling_stock": {
+          "department": "rolling_stock",
+          "issue_date": "2025-08-20",
+          "expiry_date": "2026-10-23",
+          "status": "valid"
+        },
+        "signalling": {
+          "department": "signalling",
+          "issue_date": "2025-07-16",
+          "expiry_date": "2027-07-28",
+          "status": "valid"
+        },
+        "telecom": {
+          "department": "telecom",
+          "issue_date": "2025-07-07",
+          "expiry_date": "2027-06-07",
+          "status": "valid"
+        }
+      },
+      "job_cards": [],
+      "branding_contracts": [],
+      "current_mileage": {
+        "bogie": 14326.984862775553,
+        "brake_pad": 10503.82810162542,
+        "hvac": 10659.22811011361
+      },
+      "maintenance_thresholds": {
+        "bogie": 15000,
+        "brake_pad": 13000,
+        "hvac": 15000
+      },
+      "last_deep_cleaning": "2026-09-01",
+      "cleaning_duration": 3,
+      "status": "in_service",
+      "current_position": "PT02-1"
+    },
+    {
+      "id": "TM006",
+      "fitness_certificates": {
+        "rolling_stock": {
+          "department": "rolling_stock",
+          "issue_date": "2026-02-27",
+          "expiry_date": "2026-08-16",
+          "status": "expired"
+        },
+        "signalling": {
+          "department": "signalling",
+          "issue_date": "2025-06-17",
+          "expiry_date": "2027-07-23",
+          "status": "valid"
+        },
+        "telecom": {
+          "department": "telecom",
+          "issue_date": "2025-07-17",
+          "expiry_date": "2026-08-21",
+          "status": "expired"
+        }
+      },
+      "job_cards": [],
+      "branding_contracts": [],
+      "current_mileage": {
+        "bogie": 8247.690882922412,
+        "brake_pad": 8725.36450518696,
+        "hvac": 10389.575165126367
+      },
+      "maintenance_thresholds": {
+        "bogie": 15000,
+        "brake_pad": 13000,
+        "hvac": 15000
+      },
+      "last_deep_cleaning": "2026-09-08",
+      "cleaning_duration": 2,
+      "status": "ibl",
+      "current_position": "PT11-1"
+    },
+    {
+      "id": "TM007",
+      "fitness_certificates": {
+        "rolling_stock": {
+          "department": "rolling_stock",
+          "issue_date": "2025-05-05",
+          "expiry_date": "2026-11-27",
+          "status": "valid"
+        },
+        "signalling": {
+          "department": "signalling",
+          "issue_date": "2025-07-13",
+          "expiry_date": "2027-05-29",
+          "status": "valid"
+        },
+        "telecom": {
+          "department": "telecom",
+          "issue_date": "2025-12-03",
+          "expiry_date": "2027-06-03",
+          "status": "valid"
+        }
+      },
+      "job_cards": [],
+      "branding_contracts": [
+        {
+          "brand": "Microsoft",
+          "total_exposure_hours": 127,
+          "completed_hours": 18,
+          "deadline": "2026-09-21",
+          "priority": 7
+        }
+      ],
+      "current_mileage": {
+        "bogie": 14482.675899837759,
+        "brake_pad": 11011.96193517306,
+        "hvac": 12735.081802109284
+      },
+      "maintenance_thresholds": {
+        "bogie": 15000,
+        "brake_pad": 13000,
+        "hvac": 15000
+      },
+      "last_deep_cleaning": "2026-09-07",
+      "cleaning_duration": 3,
+      "status": "in_service",
+      "current_position": "PT09-2"
+    },
+    {
+      "id": "TM008",
+      "fitness_certificates": {
+        "rolling_stock": {
+          "department": "rolling_stock",
+          "issue_date": "2026-02-14",
+          "expiry_date": "2026-12-10",
+          "status": "valid"
+        },
+        "signalling": {
+          "department": "signalling",
+          "issue_date": "2026-01-15",
+          "expiry_date": "2026-08-22",
+          "status": "expired"
+        },
+        "telecom": {
+          "department": "telecom",
+          "issue_date": "2025-07-28",
+          "expiry_date": "2026-12-01",
+          "status": "valid"
+        }
+      },
+      "job_cards": [
+        {
+          "id": "JC3208",
+          "description": "Dashboard polishing",
+          "open_date": "2026-09-04",
+          "criticality": "low",
+          "estimated_hours": 7.63486953456995
+        },
+        {
+          "id": "JC4255",
+          "description": "Lubrication of moving parts",
+          "open_date": "2026-08-29",
+          "criticality": "low",
+          "estimated_hours": 6.049382298740699
+        }
+      ],
+      "branding_contracts": [],
+      "current_mileage": {
+        "bogie": 11169.135871482282,
+        "brake_pad": 6693.894270234023,
+        "hvac": 13873.590476932832
+      },
+      "maintenance_thresholds": {
+        "bogie": 15000,
+        "brake_pad": 13000,
+        "hvac": 15000
+      },
+      "last_deep_cleaning": "2026-09-04",
+      "cleaning_duration": 3,
+      "status": "ibl",
+      "current_position": "PT09-1"
+    },
+    {
+      "id": "TM009",
+      "fitness_certificates": {
+        "rolling_stock": {
+          "department": "rolling_stock",
+          "issue_date": "2025-10-22",
+          "expiry_date": "2027-01-02",
+          "status": "valid"
+        },
+        "signalling": {
+          "department": "signalling",
+          "issue_date": "2026-05-09",
+          "expiry_date": "2027-08-09",
+          "status": "valid"
+        },
+        "telecom": {
+          "department": "telecom",
+          "issue_date": "2026-04-06",
+          "expiry_date": "2027-09-01",
+          "status": "valid"
+        }
+      },
+      "job_cards": [
+        {
+          "id": "JC1049",
+          "description": "Interior cleaning",
+          "open_date": "2026-09-04",
+          "criticality": "low",
+          "estimated_hours": 6.431662824312052
+        },
+        {
+          "id": "JC3650",
+          "description": "Brake system overhaul",
+          "open_date": "2026-08-23",
+          "criticality": "critical",
+          "estimated_hours": 3.773808271129412
+        }
+      ],
+      "branding_contracts": [
+        {
+          "brand": "Microsoft",
+          "total_exposure_hours": 69,
+          "completed_hours": 43,
+          "deadline": "2026-09-22",
+          "priority": 9
+        }
+      ],
+      "current_mileage": {
+        "bogie": 9365.755002429223,
+        "brake_pad": 9959.147654181364,
+        "hvac": 9893.126711649717
+      },
+      "maintenance_thresholds": {
+        "bogie": 15000,
+        "brake_pad": 13000,
+        "hvac": 15000
+      },
+      "last_deep_cleaning": "2026-08-31",
+      "cleaning_duration": 3,
+      "status": "ibl",
+      "current_position": "PT09-2"
+    },
+    {
+      "id": "TM010",
+      "fitness_certificates": {
+        "rolling_stock": {
+          "department": "rolling_stock",
+          "issue_date": "2025-10-12",
+          "expiry_date": "2027-04-09",
+          "status": "valid"
+        },
+        "signalling": {
+          "department": "signalling",
+          "issue_date": "2026-03-14",
+          "expiry_date": "2027-08-07",
+          "status": "valid"
+        },
+        "telecom": {
+          "department": "telecom",
+          "issue_date": "2025-06-26",
+          "expiry_date": "2026-08-19",
+          "status": "expired"
+        }
+      },
+      "job_cards": [
+        {
+          "id": "JC6053",
+          "description": "Dashboard polishing",
+          "open_date": "2026-08-27",
+          "criticality": "low",
+          "estimated_hours": 5.349432729647654
+        }
+      ],
+      "branding_contracts": [
+        {
+          "brand": "Samsung",
+          "total_exposure_hours": 123,
+          "completed_hours": 111,
+          "deadline": "2026-10-16",
+          "priority": 1
+        }
+      ],
+      "current_mileage": {
+        "bogie": 14272.337613495987,
+        "brake_pad": 7915.329435372685,
+        "hvac": 9460.629506227955
+      },
+      "maintenance_thresholds": {
+        "bogie": 15000,
+        "brake_pad": 13000,
+        "hvac": 15000
+      },
+      "last_deep_cleaning": "2026-09-08",
+      "cleaning_duration": 2,
+      "status": "ibl",
+      "current_position": "PT06-2"
+    },
+    {
+      "id": "TM011",
+      "fitness_certificates": {
+        "rolling_stock": {
+          "department": "rolling_stock",
+          "issue_date": "2026-04-03",
+          "expiry_date": "2027-03-29",
+          "status": "valid"
+        },
+        "signalling": {
+          "department": "signalling",
+          "issue_date": "2025-12-18",
+          "expiry_date": "2027-04-30",
+          "status": "valid"
+        },
+        "telecom": {
+          "department": "telecom",
+          "issue_date": "2025-11-10",
+          "expiry_date": "2027-01-15",
+          "status": "valid"
+        }
+      },
+      "job_cards": [],
+      "branding_contracts": [
+        {
+          "brand": "Coca-Cola",
+          "total_exposure_hours": 86,
+          "completed_hours": 76,
+          "deadline": "2026-10-22",
+          "priority": 1
+        }
+      ],
+      "current_mileage": {
+        "bogie": 13450.608036241974,
+        "brake_pad": 9607.705980209603,
+        "hvac": 14812.864640684607
+      },
+      "maintenance_thresholds": {
+        "bogie": 15000,
+        "brake_pad": 13000,
+        "hvac": 15000
+      },
+      "last_deep_cleaning": "2026-09-03",
+      "cleaning_duration": 4,
+      "status": "parking",
+      "current_position": "PT10-1"
+    },
+    {
+      "id": "TM012",
+      "fitness_certificates": {
+        "rolling_stock": {
+          "department": "rolling_stock",
+          "issue_date": "2026-03-02",
+          "expiry_date": "2026-11-12",
+          "status": "valid"
+        },
+        "signalling": {
+          "department": "signalling",
+          "issue_date": "2025-12-03",
+          "expiry_date": "2027-04-26",
+          "status": "valid"
+        },
+        "telecom": {
+          "department": "telecom",
+          "issue_date": "2026-05-05",
+          "expiry_date": "2027-06-20",
+          "status": "valid"
+        }
+      },
+      "job_cards": [],
+      "branding_contracts": [
+        {
+          "brand": "Apple",
+          "total_exposure_hours": 159,
+          "completed_hours": 73,
+          "deadline": "2026-10-21",
+          "priority": 2
+        }
+      ],
+      "current_mileage": {
+        "bogie": 8416.566262929266,
+        "brake_pad": 11333.999173529059,
+        "hvac": 9980.102360913104
+      },
+      "maintenance_thresholds": {
+        "bogie": 15000,
+        "brake_pad": 13000,
+        "hvac": 15000
+      },
+      "last_deep_cleaning": "2026-09-10",
+      "cleaning_duration": 4,
+      "status": "in_service",
+      "current_position": "PT12-2"
+    },
+    {
+      "id": "TM013",
+      "fitness_certificates": {
+        "rolling_stock": {
+          "department": "rolling_stock",
+          "issue_date": "2025-10-09",
+          "expiry_date": "2026-11-16",
+          "status": "valid"
+        },
+        "signalling": {
+          "department": "signalling",
+          "issue_date": "2025-10-11",
+          "expiry_date": "2027-01-04",
+          "status": "valid"
+        },
+        "telecom": {
+          "department": "telecom",
+          "issue_date": "2026-04-17",
+          "expiry_date": "2027-07-26",
+          "status": "valid"
+        }
+      },
+      "job_cards": [],
+      "branding_contracts": [
+        {
+          "brand": "Samsung",
+          "total_exposure_hours": 101,
+          "completed_hours": 54,
+          "deadline": "2026-11-03",
+          "priority": 10
+        }
+      ],
+      "current_mileage": {
+        "bogie": 14483.679221366645,
+        "brake_pad": 7083.650423345747,
+        "hvac": 11674.371546985623
+      },
+      "maintenance_thresholds": {
+        "bogie": 15000,
+        "brake_pad": 13000,
+        "hvac": 15000
+      },
+      "last_deep_cleaning": "2026-09-07",
+      "cleaning_duration": 3,
+      "status": "in_service",
+      "current_position": "PT03-1"
+    },
+    {
+      "id": "TM014",
+      "fitness_certificates": {
+        "rolling_stock": {
+          "department": "rolling_stock",
+          "issue_date": "2025-07-17",
+          "expiry_date": "2027-03-18",
+          "status": "valid"
+        },
+        "signalling": {
+          "department": "signalling",
+          "issue_date": "2026-02-16",
+          "expiry_date": "2026-12-31",
+          "status": "valid"
+        },
+        "telecom": {
+          "department": "telecom",
+          "issue_date": "2025-06-16",
+          "expiry_date": "2026-12-26",
+          "status": "valid"
+        }
+      },
+      "job_cards": [
+        {
+          "id": "JC2258",
+          "description": "AC unit maintenance",
+          "open_date": "2026-08-22",
+          "criticality": "high",
+          "estimated_hours": 5.628009966859279
+        }
+      ],
+      "branding_contracts": [],
+      "current_mileage": {
+        "bogie": 13043.752194146757,
+        "brake_pad": 7231.301993936542,
+        "hvac": 11908.290255929518
+      },
+      "maintenance_thresholds": {
+        "bogie": 15000,
+        "brake_pad": 13000,
+        "hvac": 15000
+      },
+      "last_deep_cleaning": "2026-09-10",
+      "cleaning_duration": 3,
+      "status": "parking",
+      "current_position": "PT05-1"
+    },
+    {
+      "id": "TM015",
+      "fitness_certificates": {
+        "rolling_stock": {
+          "department": "rolling_stock",
+          "issue_date": "2025-06-15",
+          "expiry_date": "2027-06-20",
+          "status": "valid"
+        },
+        "signalling": {
+          "department": "signalling",
+          "issue_date": "2026-05-29",
+          "expiry_date": "2027-08-15",
+          "status": "valid"
+        },
+        "telecom": {
+          "department": "telecom",
+          "issue_date": "2026-02-24",
+          "expiry_date": "2027-04-04",
+          "status": "valid"
+        }
+      },
+      "job_cards": [
+        {
+          "id": "JC1098",
+          "description": "Lubrication of moving parts",
+          "open_date": "2026-08-21",
+          "criticality": "low",
+          "estimated_hours": 5.505961375322038
+        },
+        {
+          "id": "JC7635",
+          "description": "Handrail maintenance",
+          "open_date": "2026-08-18",
+          "criticality": "medium",
+          "estimated_hours": 3.853821502719429
+        },
+        {
+          "id": "JC5126",
+          "description": "Door mechanism adjustment",
+          "open_date": "2026-09-05",
+          "criticality": "high",
+          "estimated_hours": 4.9838417790716925
+        }
+      ],
+      "branding_contracts": [
+        {
+          "brand": "Microsoft",
+          "total_exposure_hours": 183,
+          "completed_hours": 119,
+          "deadline": "2026-10-22",
+          "priority": 2
+        }
+      ],
+      "current_mileage": {
+        "bogie": 10074.280715009701,
+        "brake_pad": 8756.674204596493,
+        "hvac": 13403.288162927203
+      },
+      "maintenance_thresholds": {
+        "bogie": 15000,
+        "brake_pad": 13000,
+        "hvac": 15000
+      },
+      "last_deep_cleaning": "2026-09-08",
+      "cleaning_duration": 3,
+      "status": "parking",
+      "current_position": "PT03-1"
+    },
+    {
+      "id": "TM016",
+      "fitness_certificates": {
+        "rolling_stock": {
+          "department": "rolling_stock",
+          "issue_date": "2026-04-24",
+          "expiry_date": "2027-01-04",
+          "status": "valid"
+        },
+        "signalling": {
+          "department": "signalling",
+          "issue_date": "2025-10-28",
+          "expiry_date": "2027-03-31",
+          "status": "valid"
+        },
+        "telecom": {
+          "department": "telecom",
+          "issue_date": "2026-02-10",
+          "expiry_date": "2027-06-14",
+          "status": "valid"
+        }
+      },
+      "job_cards": [],
+      "branding_contracts": [],
+      "current_mileage": {
+        "bogie": 13688.967614284973,
+        "brake_pad": 9739.447392901737,
+        "hvac": 9232.860502088202
+      },
+      "maintenance_thresholds": {
+        "bogie": 15000,
+        "brake_pad": 13000,
+        "hvac": 15000
+      },
+      "last_deep_cleaning": "2026-09-02",
+      "cleaning_duration": 4,
+      "status": "in_service",
+      "current_position": "PT02-2"
+    },
+    {
+      "id": "TM017",
+      "fitness_certificates": {
+        "rolling_stock": {
+          "department": "rolling_stock",
+          "issue_date": "2025-09-13",
+          "expiry_date": "2027-03-29",
+          "status": "valid"
+        },
+        "signalling": {
+          "department": "signalling",
+          "issue_date": "2025-05-24",
+          "expiry_date": "2027-03-21",
+          "status": "valid"
+        },
+        "telecom": {
+          "department": "telecom",
+          "issue_date": "2026-03-10",
+          "expiry_date": "2027-02-28",
+          "status": "valid"
+        }
+      },
+      "job_cards": [
+        {
+          "id": "JC7073",
+          "description": "Handrail maintenance",
+          "open_date": "2026-08-23",
+          "criticality": "medium",
+          "estimated_hours": 2.6241143940406273
+        }
+      ],
+      "branding_contracts": [
+        {
+          "brand": "Pepsi",
+          "total_exposure_hours": 141,
+          "completed_hours": 6,
+          "deadline": "2026-10-19",
+          "priority": 2
+        }
+      ],
+      "current_mileage": {
+        "bogie": 8500.250474666998,
+        "brake_pad": 8922.309025878398,
+        "hvac": 14205.949537027453
+      },
+      "maintenance_thresholds": {
+        "bogie": 15000,
+        "brake_pad": 13000,
+        "hvac": 15000
+      },
+      "last_deep_cleaning": "2026-09-04",
+      "cleaning_duration": 4,
+      "status": "parking",
+      "current_position": "PT10-1"
+    },
+    {
+      "id": "TM018",
+      "fitness_certificates": {
+        "rolling_stock": {
+          "department": "rolling_stock",
+          "issue_date": "2025-08-09",
+          "expiry_date": "2027-04-09",
+          "status": "valid"
+        },
+        "signalling": {
+          "department": "signalling",
+          "issue_date": "2025-07-18",
+          "expiry_date": "2027-08-29",
+          "status": "valid"
+        },
+        "telecom": {
+          "department": "telecom",
+          "issue_date": "2025-04-28",
+          "expiry_date": "2027-02-03",
+          "status": "valid"
+        }
+      },
+      "job_cards": [],
+      "branding_contracts": [
+        {
+          "brand": "Coca-Cola",
+          "total_exposure_hours": 178,
+          "completed_hours": 122,
+          "deadline": "2026-10-08",
+          "priority": 8
+        }
+      ],
+      "current_mileage": {
+        "bogie": 14272.780363173579,
+        "brake_pad": 9835.140769471072,
+        "hvac": 13215.778804803696
+      },
+      "maintenance_thresholds": {
+        "bogie": 15000,
+        "brake_pad": 13000,
+        "hvac": 15000
+      },
+      "last_deep_cleaning": "2026-08-31",
+      "cleaning_duration": 3,
+      "status": "parking",
+      "current_position": "PT06-1"
+    },
+    {
+      "id": "TM019",
+      "fitness_certificates": {
+        "rolling_stock": {
+          "department": "rolling_stock",
+          "issue_date": "2025-11-07",
+          "expiry_date": "2027-05-07",
+          "status": "valid"
+        },
+        "signalling": {
+          "department": "signalling",
+          "issue_date": "2025-11-10",
+          "expiry_date": "2027-07-08",
+          "status": "valid"
+        },
+        "telecom": {
+          "department": "telecom",
+          "issue_date": "2025-07-05",
+          "expiry_date": "2027-03-21",
+          "status": "valid"
+        }
+      },
+      "job_cards": [
+        {
+          "id": "JC1070",
+          "description": "Interior cleaning",
+          "open_date": "2026-09-09",
+          "criticality": "low",
+          "estimated_hours": 7.801157840798732
+        }
+      ],
+      "branding_contracts": [
+        {
+          "brand": "Samsung",
+          "total_exposure_hours": 135,
+          "completed_hours": 96,
+          "deadline": "2026-10-09",
+          "priority": 4
+        }
+      ],
+      "current_mileage": {
+        "bogie": 13561.6423806473,
+        "brake_pad": 10270.669155693467,
+        "hvac": 14401.026398273836
+      },
+      "maintenance_thresholds": {
+        "bogie": 15000,
+        "brake_pad": 13000,
+        "hvac": 15000
+      },
+      "last_deep_cleaning": "2026-09-06",
+      "cleaning_duration": 3,
+      "status": "in_service",
+      "current_position": "PT12-2"
+    },
+    {
+      "id": "TM020",
+      "fitness_certificates": {
+        "rolling_stock": {
+          "department": "rolling_stock",
+          "issue_date": "2026-04-26",
+          "expiry_date": "2027-01-24",
+          "status": "valid"
+        },
+        "signalling": {
+          "department": "signalling",
+          "issue_date": "2025-11-11",
+          "expiry_date": "2027-04-30",
+          "status": "valid"
+        },
+        "telecom": {
+          "department": "telecom",
+          "issue_date": "2025-07-22",
+          "expiry_date": "2027-07-08",
+          "status": "valid"
+        }
+      },
+      "job_cards": [
+        {
+          "id": "JC9595",
+          "description": "Handrail maintenance",
+          "open_date": "2026-08-21",
+          "criticality": "medium",
+          "estimated_hours": 2.1235158182775487
+        }
+      ],
+      "branding_contracts": [
+        {
+          "brand": "Coca-Cola",
+          "total_exposure_hours": 182,
+          "completed_hours": 22,
+          "deadline": "2026-10-03",
+          "priority": 8
+        }
+      ],
+      "current_mileage": {
+        "bogie": 11360.405243499472,
+        "brake_pad": 10240.803430615124,
+        "hvac": 14412.418128598227
+      },
+      "maintenance_thresholds": {
+        "bogie": 15000,
+        "brake_pad": 13000,
+        "hvac": 15000
+      },
+      "last_deep_cleaning": "2026-09-05",
+      "cleaning_duration": 4,
+      "status": "parking",
+      "current_position": "PT04-2"
+    },
+    {
+      "id": "TM021",
+      "fitness_certificates": {
+        "rolling_stock": {
+          "department": "rolling_stock",
+          "issue_date": "2025-09-20",
+          "expiry_date": "2026-11-09",
+          "status": "valid"
+        },
+        "signalling": {
+          "department": "signalling",
+          "issue_date": "2025-12-04",
+          "expiry_date": "2026-12-09",
+          "status": "valid"
+        },
+        "telecom": {
+          "department": "telecom",
+          "issue_date": "2025-06-19",
+          "expiry_date": "2027-09-07",
+          "status": "valid"
+        }
+      },
+      "job_cards": [],
+      "branding_contracts": [
+        {
+          "brand": "Pepsi",
+          "total_exposure_hours": 115,
+          "completed_hours": 13,
+          "deadline": "2026-10-17",
+          "priority": 4
+        }
+      ],
+      "current_mileage": {
+        "bogie": 12329.981061937986,
+        "brake_pad": 10639.094573740822,
+        "hvac": 10603.783930667383
+      },
+      "maintenance_thresholds": {
+        "bogie": 15000,
+        "brake_pad": 13000,
+        "hvac": 15000
+      },
+      "last_deep_cleaning": "2026-09-02",
+      "cleaning_duration": 3,
+      "status": "in_service",
+      "current_position": "PT11-2"
+    },
+    {
+      "id": "TM022",
+      "fitness_certificates": {
+        "rolling_stock": {
+          "department": "rolling_stock",
+          "issue_date": "2026-05-05",
+          "expiry_date": "2026-08-25",
+          "status": "expired"
+        },
+        "signalling": {
+          "department": "signalling",
+          "issue_date": "2025-12-10",
+          "expiry_date": "2026-09-09",
+          "status": "expired"
+        },
+        "telecom": {
+          "department": "telecom",
+          "issue_date": "2025-06-21",
+          "expiry_date": "2027-04-03",
+          "status": "valid"
+        }
+      },
+      "job_cards": [],
+      "branding_contracts": [],
+      "current_mileage": {
+        "bogie": 13738.207986749505,
+        "brake_pad": 11468.577542139978,
+        "hvac": 11102.473140500972
+      },
+      "maintenance_thresholds": {
+        "bogie": 15000,
+        "brake_pad": 13000,
+        "hvac": 15000
+      },
+      "last_deep_cleaning": "2026-09-07",
+      "cleaning_duration": 3,
+      "status": "ibl",
+      "current_position": "PT05-2"
+    },
+    {
+      "id": "TM023",
+      "fitness_certificates": {
+        "rolling_stock": {
+          "department": "rolling_stock",
+          "issue_date": "2026-01-23",
+          "expiry_date": "2027-04-12",
+          "status": "valid"
+        },
+        "signalling": {
+          "department": "signalling",
+          "issue_date": "2026-01-18",
+          "expiry_date": "2026-12-21",
+          "status": "valid"
+        },
+        "telecom": {
+          "department": "telecom",
+          "issue_date": "2025-05-25",
+          "expiry_date": "2027-01-04",
+          "status": "valid"
+        }
+      },
+      "job_cards": [],
+      "branding_contracts": [
+        {
+          "brand": "Samsung",
+          "total_exposure_hours": 162,
+          "completed_hours": 138,
+          "deadline": "2026-11-01",
+          "priority": 8
+        }
+      ],
+      "current_mileage": {
+        "bogie": 10183.660235543226,
+        "brake_pad": 6351.11787695549,
+        "hvac": 11994.231338644851
+      },
+      "maintenance_thresholds": {
+        "bogie": 15000,
+        "brake_pad": 13000,
+        "hvac": 15000
+      },
+      "last_deep_cleaning": "2026-09-04",
+      "cleaning_duration": 2,
+      "status": "in_service",
+      "current_position": "PT12-2"
+    },
+    {
+      "id": "TM024",
+      "fitness_certificates": {
+        "rolling_stock": {
+          "department": "rolling_stock",
+          "issue_date": "2025-12-07",
+          "expiry_date": "2026-12-20",
+          "status": "valid"
+        },
+        "signalling": {
+          "department": "signalling",
+          "issue_date": "2025-07-12",
+          "expiry_date": "2027-08-27",
+          "status": "valid"
+        },
+        "telecom": {
+          "department": "telecom",
+          "issue_date": "2025-09-26",
+          "expiry_date": "2026-12-11",
+          "status": "valid"
+        }
+      },
+      "job_cards": [
+        {
+          "id": "JC3343",
+          "description": "Door mechanism adjustment",
+          "open_date": "2026-09-05",
+          "criticality": "high",
+          "estimated_hours": 2.3100642060342045
+        },
+        {
+          "id": "JC9052",
+          "description": "Interior cleaning",
+          "open_date": "2026-09-06",
+          "criticality": "low",
+          "estimated_hours": 1.5744928746723459
+        }
+      ],
+      "branding_contracts": [],
+      "current_mileage": {
+        "bogie": 8314.788308720968,
+        "brake_pad": 11075.144210223196,
+        "hvac": 10596.572326655907
+      },
+      "maintenance_thresholds": {
+        "bogie": 15000,
+        "brake_pad": 13000,
+        "hvac": 15000
+      },
+      "last_deep_cleaning": "2026-09-09",
+      "cleaning_duration": 2,
+      "status": "standby",
+      "current_position": "PT01-2"
+    },
+    {
+      "id": "TM025",
+      "fitness_certificates": {
+        "rolling_stock": {
+          "department": "rolling_stock",
+          "issue_date": "2026-04-26",
+          "expiry_date": "2027-01-06",
+          "status": "valid"
+        },
+        "signalling": {
+          "department": "signalling",
+          "issue_date": "2026-04-05",
+          "expiry_date": "2026-12-06",
+          "status": "valid"
+        },
+        "telecom": {
+          "department": "telecom",
+          "issue_date": "2025-10-26",
+          "expiry_date": "2027-01-20",
+          "status": "valid"
+        }
+      },
+      "job_cards": [
+        {
+          "id": "JC2667",
+          "description": "Window seal replacement",
+          "open_date": "2026-08-14",
+          "criticality": "high",
+          "estimated_hours": 2.6480811717433568
+        },
+        {
+          "id": "JC1743",
+          "description": "Lubrication of moving parts",
+          "open_date": "2026-09-08",
+          "criticality": "low",
+          "estimated_hours": 3.372504191910577
+        },
+        {
+          "id": "JC2261",
+          "description": "Dashboard polishing",
+          "open_date": "2026-09-01",
+          "criticality": "low",
+          "estimated_hours": 3.2084727467727876
+        }
+      ],
+      "branding_contracts": [
+        {
+          "brand": "Microsoft",
+          "total_exposure_hours": 162,
+          "completed_hours": 125,
+          "deadline": "2026-10-07",
+          "priority": 2
+        }
+      ],
+      "current_mileage": {
+        "bogie": 9234.574651808074,
+        "brake_pad": 8501.568840339629,
+        "hvac": 9633.58172243005
+      },
+      "maintenance_thresholds": {
+        "bogie": 15000,
+        "brake_pad": 13000,
+        "hvac": 15000
+      },
+      "last_deep_cleaning": "2026-09-06",
+      "cleaning_duration": 2,
+      "status": "standby",
+      "current_position": "PT01-1"
+    }
+  ],
+  "cleaning_slots": [
+    {
+      "id": "CS01",
+      "available": true,
+      "available_from": "2026-09-10 17:09:06"
+    },
+    {
+      "id": "CS02",
+      "available": true,
+      "available_from": "2026-09-10 17:09:06"
+    },
+    {
+      "id": "CS03",
+      "available": true,
+      "available_from": "2026-09-10 17:09:06"
+    }
+  ],
+  "depot_layout": {
+    "parking_tracks": [
+      {
+        "id": "PT01",
+        "capacity": 2,
+        "current_trains": [
+          "TM007"
+        ]
+      },
+      {
+        "id": "PT02",
+        "capacity": 2,
+        "current_trains": []
+      },
+      {
+        "id": "PT03",
+        "capacity": 2,
+        "current_trains": [
+          "TM012"
+        ]
+      },
+      {
+        "id": "PT04",
+        "capacity": 2,
+        "current_trains": [
+          "TM006",
+          "TM009"
+        ]
+      },
+      {
+        "id": "PT05",
+        "capacity": 2,
+        "current_trains": []
+      },
+      {
+        "id": "PT06",
+        "capacity": 2,
+        "current_trains": [
+          "TM018",
+          "TM007"
+        ]
+      },
+      {
+        "id": "PT07",
+        "capacity": 2,
+        "current_trains": []
+      },
+      {
+        "id": "PT08",
+        "capacity": 2,
+        "current_trains": [
+          "TM010",
+          "TM012"
+        ]
+      },
+      {
+        "id": "PT09",
+        "capacity": 2,
+        "current_trains": [
+          "TM010"
+        ]
+      },
+      {
+        "id": "PT10",
+        "capacity": 2,
+        "current_trains": [
+          "TM016"
+        ]
+      },
+      {
+        "id": "PT11",
+        "capacity": 2,
+        "current_trains": [
+          "TM010"
+        ]
+      },
+      {
+        "id": "PT12",
+        "capacity": 2,
+        "current_trains": []
+      }
+    ],
+    "ibl_bays": [
+      "IBL01",
+      "IBL02",
+      "IBL03",
+      "IBL04",
+      "IBL05"
+    ],
+    "exit_points": [
+      "EXIT01",
+      "EXIT02"
+    ],
+    "connections": {
+      "PT01": [
+        "PT02",
+        "IBL01",
+        "IBL02",
+        "EXIT01"
+      ],
+      "PT02": [
+        "PT01",
+        "PT03",
+        "IBL01",
+        "IBL02",
+        "EXIT01"
+      ],
+      "PT03": [
+        "PT02",
+        "PT04",
+        "IBL01",
+        "IBL02",
+        "EXIT01"
+      ],
+      "PT04": [
+        "PT03",
+        "PT05",
+        "EXIT01"
+      ],
+      "PT05": [
+        "PT04",
+        "PT06",
+        "EXIT01"
+      ],
+      "PT06": [
+        "PT05",
+        "PT07",
+        "EXIT01"
+      ],
+      "PT07": [
+        "PT06",
+        "PT08",
+        "EXIT02"
+      ],
+      "PT08": [
+        "PT07",
+        "PT09",
+        "EXIT02"
+      ],
+      "PT09": [
+        "PT08",
+        "PT10",
+        "EXIT02"
+      ],
+      "PT10": [
+        "PT09",
+        "PT11",
+        "IBL04",
+        "IBL05",
+        "EXIT02"
+      ],
+      "PT11": [
+        "PT10",
+        "PT12",
+        "IBL04",
+        "IBL05",
+        "EXIT02"
+      ],
+      "PT12": [
+        "PT11",
+        "IBL04",
+        "IBL05",
+        "EXIT02"
+      ],
+      "IBL01": [
+        "IBL02",
+        "PT01",
+        "PT02",
+        "PT03"
+      ],
+      "IBL02": [
+        "IBL01",
+        "IBL03",
+        "PT01",
+        "PT02",
+        "PT03"
+      ],
+      "IBL03": [
+        "IBL02",
+        "IBL04",
+        "PT10",
+        "PT11",
+        "PT12"
+      ],
+      "IBL04": [
+        "IBL03",
+        "IBL05",
+        "PT10",
+        "PT11",
+        "PT12"
+      ],
+      "IBL05": [
+        "IBL04",
+        "PT10",
+        "PT11",
+        "PT12"
+      ],
+      "EXIT01": [
+        "PT01",
+        "PT02",
+        "PT03",
+        "PT04",
+        "PT05",
+        "PT06"
+      ],
+      "EXIT02": [
+        "PT07",
+        "PT08",
+        "PT09",
+        "PT10",
+        "PT11",
+        "PT12"
+      ]
+    }
+  },
+  "date": "2026-09-10",
+  "required_trains": 18,
+  "standby_trains": 4,
+  "cleaning_crew_available": 3
+}
