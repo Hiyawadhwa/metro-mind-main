@@ -828,9 +828,9 @@ export default function CBTCPage() {
                         border: '1px solid #374151',
                         borderRadius: '0.5rem'
                       }}
-                      formatter={(value: number) => [`${value} km/h`, 'System Speed']}
+                      formatter={(value) => [`${value} km/h`, 'System Speed']}
                       labelStyle={{ color: '#D1D5DB' }}
-                      labelFormatter={(label: number) => `Time: ${label}s`}
+                      labelFormatter={(label) => `Time: ${label}s`}
                     />
                     <Line
                       type="monotone"
@@ -881,9 +881,9 @@ export default function CBTCPage() {
                         border: '1px solid #374151',
                         borderRadius: '0.5rem'
                       }}
-                      formatter={(value: number) => [`${value} m`, 'Min Separation']}
+                      formatter={(value) => [`${value} m`, 'Min Separation']}
                       labelStyle={{ color: '#D1D5DB' }}
-                      labelFormatter={(label: number) => `Time: ${label}s`}
+                      labelFormatter={(label) => `Time: ${label}s`}
                     />
                     <Area
                       type="monotone"
